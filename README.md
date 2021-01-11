@@ -1,3 +1,3 @@
 # React App 2020
  
-React JS Fundamentals Course (2021 Update)
+React JS Fundamentals Course
